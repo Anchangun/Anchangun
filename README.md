@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 ![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=radical)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anchangun)]
 
