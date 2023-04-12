@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white")
 
-### Framework
-![Framework](https://img.shields.io/badge/Android-3DDC84?style=for-the-badg&logo=Android&logoColor=white")
+### Platforms
+![Platforms](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badg&logo=AndroidStudio&logoColor=white")
 
 ### Tools
