@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### Language
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white")
+![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Platforms
-![Platforms](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badg&logo=AndroidStudio&logoColor=white")
+![Platforms](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badg&logo=AndroidStudio&logoColor=white)
 
 ### Tools
