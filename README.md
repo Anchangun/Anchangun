@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white")
 
 ### Framework
-![Framework](https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white")
+![Framework](https://img.shields.io/badge/Android-3DDC84?style=for-the-badg&logo=Android&logoColor=white")
 
 ### Tools
