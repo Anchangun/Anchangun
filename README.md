@@ -19,5 +19,11 @@ Here are some ideas to get you started:
 ![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=radical)
 
 ### Language
-![Language](https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Language](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white")
+
+### Framework
+![Framework](https://img.shields.io/badge/Android-3DDC84?style=flat-badge&logo=Android&logoColor=white")
+
+### Tools
