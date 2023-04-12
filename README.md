@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![Anchangun github stats](https://github-readme-stats.vercel.app/api?username=Anchangun&show_icons=true&theme=radical)
 
 ![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=radical)
+
+### Language
+![Language](https://img.shields.io/badge/Language-C%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C-red?style=for-the-badge&logo=c&logoColor=white)
