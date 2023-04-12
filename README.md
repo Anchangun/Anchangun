@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 ![Language](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Platforms
-![Platforms](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badg&logo=AndroidStudio&logoColor=white)
+![Platforms](https://img.shields.io/badge/Android-3DDC84?style=for-the-badg&logo=Android&logoColor=white)
+
+### FrameWork
+![FrameWork](https://img.shields.io/badge/ROS-22314E?style=style=for-the-badg&logo=ROS&logoColor=white)
+![FrameWork](https://img.shields.io/badge/ROS2-orange?style=style=for-the-badg&logo=ROS&logoColor=white)
 
 ### Tools
+![Tools](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badg&logo=AndroidStudio&logoColor=white)
