@@ -20,7 +20,7 @@
 
 ### FrameWork
 ![FrameWork](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![FrameWork](https://img.shields.io/badge/ROS2-orange?style=for-the-badge&logo=ROS&logoColor=white)
+![FrameWork](https://img.shields.io/badge/ROS2-orange?style=for-the-badge&logo=?logo=4552618-cogwheel-gear-setting_121399&logoColor=white)
 
 ### IDE
 ![IDE](https://img.shields.io/badge/AndroidStudio-33DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
