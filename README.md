@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnchangun%2FLeetCode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![issue badge](https://img.shields.io/badge/Gmail-chanung516-green?style=flat&logo=Gmail&logoColor=FFFFFF)
 <br>
-<img src="/wabot3.gif" width="300" height="300">
-<img src="/coex.gif" width="300" height="300">
+<img src="/wabot3.gif" width="444" height="250">
+<img src="/coex.gif" width="444" height="250">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anchangun&show_icons=true&theme=great-gatsby)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anchangun&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
