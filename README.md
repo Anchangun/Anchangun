@@ -5,7 +5,7 @@ Hello I'm Robot Developer.<br>
 <img src="/coex.gif" width="444" height="250">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anchangun&show_icons=true&theme=great-gatsby)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anchangun&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Anchangun&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 ![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=great-gatsby)
 
 ### Language
