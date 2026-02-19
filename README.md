@@ -4,9 +4,9 @@ Hello I'm Robot Developer.<br>
 <img src="/wabot3.gif" width="444" height="250">
 <img src="/coex.gif" width="444" height="250">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anchangun&show_icons=true&theme=great-gatsby)
+[![Changun GitHub stats](https://github-readme-stats.vercel.app/api?username=anchangun)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Anchangun&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=great-gatsby)
+<!-- ![AnChangun](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchangun&show_icons=true&theme=great-gatsby) -->
 
 ### Language
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
